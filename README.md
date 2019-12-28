@@ -10,6 +10,22 @@
 
 Hub est un outil qui enveloppe git afin de l'étendre avec des fonctionnalités supplémentaires qui le rendent meilleur lorsque vous travaillez avec GitHub.
 
+#### INstallations
+
+- etc... 
+
+#### Testé sur 
+
+- Linux distribution
+  + hub version
+  + autres version
+
+##### Rendu visuel (commandes et resultats)
+```
+#nous sommes dans bash
+
+```
+
 ### Pipeline passed
 Le fichier .gitlab-ci.yml indique au runner de GitLab quoi faire. Par défaut, il exécute un pipeline en trois étapes: build, test, and deploy. Il arrive parfois que le test se fait avant que le build soit complété. Pour remédier à se problème, il suffit de preciser que le test doit être fait après le build. 
 
